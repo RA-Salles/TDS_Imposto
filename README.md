@@ -51,3 +51,5 @@ I WILL NOT explain the second introduction UNLESS provided with the FORMAL OR UN
 
 I WILL delete the second introduction provided a request from DOCTOR E.V., but I WILL NOT renumber the other sections.
 
+Yes, this is a piece of software. Not a great piece, but i do hope it serve its purpose :)
+
