@@ -46,7 +46,19 @@ First things first, make sure python 3 is installed and you do have access to th
 
 TODO - FINISH EXPLAINING HOW TO RUN THE TEST SUITE. 
 
-# Final considerations
+## V. DOCUMENTATION
+Every code is its own document. Every code must be commented and every comment must contribute to explain the thought process of implementing the class, method, function etc. 
+
+From this point onwards, we'll be using the name convention of foo_bar_fizz_buzz for *everything*. I really do dislike came case and using anything but lowercase in code
+rubs me the wrong way.
+
+## VI. CONTRIBUTIONS
+
+Nobody but DOCTOR E. V. is allowed to contribute to this code :)
+
+(Since then i would be getting help for an individual assessment, which is not very great and also not very easy to explain).
+
+## VII. Final considerations
 I WILL NOT explain the second introduction UNLESS provided with the FORMAL OR UNFORMAL PROMISE that the truth will stay with the PROMISER.
 
 I WILL delete the second introduction provided a request from DOCTOR E.V., but I WILL NOT renumber the other sections.
