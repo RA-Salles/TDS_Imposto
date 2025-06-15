@@ -14,6 +14,7 @@ class irpf():
         #had to add this since register_income would
         #fail miserably trying to add something to NOTHING!
         self.income = 0
+        self.dependant = []
 
     def register_income(self, income):
         #as per specification, this sums.
@@ -30,8 +31,7 @@ class irpf():
         return self.pension
 
     def register_dependant(self, name):
-        self.dependant = name
+        self.dependant.append(name)
     
-    def get_deduction(self):
-        if self.dependant:
-            return 300
+    def get_deduction(self):    
+        return len(self.dependant) * 150
