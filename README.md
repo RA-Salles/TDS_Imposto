@@ -44,7 +44,18 @@ This should take care of the work
 ## IV. RUNNING THIS PIECE OF SOFTWARE
 First things first, make sure python 3 is installed and you do have access to the repository someway somehow. Clone it, fork it, dowload the zip, come steal it from my pc, ask me for a pendrive with the code.
 
-TODO - FINISH EXPLAINING HOW TO RUN THE TEST SUITE. 
+The only purpose of this is for the code to be tested, then lets go over on how to test it.
+
+1. Make sure you have python installed.
+2. Clone the repo.
+3. enter the root of the project.
+4. run the following
+
+> ls tests
+> python -m unittest discover -v -p "tst*"
+
+5. analyze the results
+
 
 ## V. DOCUMENTATION
 Every code is its own document. Every code must be commented and every comment must contribute to explain the thought process of implementing the class, method, function etc. 
