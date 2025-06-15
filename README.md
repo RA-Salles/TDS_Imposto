@@ -71,6 +71,7 @@ Nobody but DOCTOR E. V. is allowed to contribute to this code :)
 
 ## VII. Final considerations
 I WILL NOT explain the second introduction UNLESS provided with the FORMAL OR UNFORMAL PROMISE that the truth will stay with the PROMISER.
+Also, i already forgot what it was, so the censoring served its purpose better than expected. Nice :)
 
 I WILL delete the second introduction provided a request from DOCTOR E.V., but I WILL NOT renumber the other sections.
 
