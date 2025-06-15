@@ -11,14 +11,19 @@ JULIETT CHARLIE INDIA INDIA HOTEL NOVEMBER.
 
 class irpf():
     def __init__(self):
+        #had to add this since register_income would
+        #fail miserably trying to add something to NOTHING!
         self.income = 0
+
     def register_income(self, income):
+        #as per specification, this sums.
         self.income += income
 
     def get_income(self):
         return self.income
     
     def register_pension(self, pension):
+        #and, as per specification, this overwrites.
         self.pension = pension
     
     def get_pension(self):
