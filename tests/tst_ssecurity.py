@@ -11,3 +11,6 @@ class test_social_security(tc):
         self.taxer.register_pension(800.00)
         self.assertEqual(self.taxer.get_pension(), float(800))
     
+    def test_social_security_II(self):
+        self.taxer.register_pension(1200.00)
+        self.assertEqual(self.taxer.get_pension(), float(1200))
