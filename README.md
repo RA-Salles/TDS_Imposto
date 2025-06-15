@@ -21,10 +21,10 @@ WITH TDS_IMPOSTO, YOU'RE NOW ABLE TO FIND JUST HOW MUCH THE BRAVO GOLF WILL SIER
 
 FEAR NOT! INDIA YANKEE GOLF NOVEMBER MIKE TANGO PHANTOM TANGO ALPHA ALPHA THIS WILL GENERATE, YOU ARE CORDIALLY INVITED TO ECHO SIERRA ALPHA DELTA :)!
 
-YOU COULD "FOXTROT YANKEE FOXTROT WHISKEY TANGO MIKE" AND MIGHT ALSO LIVE A GENERALLY "BRAVO ALPHA MIKE CHARLIE LIMA", YOU MIGHT PROTEST. WELL, BAD LUCK! YOU OSCAR UNIFORM YANKEE SIERRA!!
+YOU COULD "FOXTROT YANKEE FOXTROT WHISKEY TANGO MIKE" AND MIGHT ALSO LIVE A GENERALLY "BRAVO ALPHA MIKE CHARLIE LIMA", YOU MIGHT PROTEST, THINK OR SAY. WELL, BAD LUCK! YOU OSCAR UNIFORM YANKEE SIERRA!!
 EVERY. CHARLIE! EVERY PHANTOM. 
 
-That's mostly it for introductions.
+That's mostly it for introductions. This software is NOT designed to help you pay your taxes at all.
 
 ## III. Methodology
 
@@ -63,5 +63,9 @@ I WILL NOT explain the second introduction UNLESS provided with the FORMAL OR UN
 
 I WILL delete the second introduction provided a request from DOCTOR E.V., but I WILL NOT renumber the other sections.
 
-Yes, this is a piece of software. Not a great piece, but i do hope it serve its purpose :)
+I COMMUNICATE VERY POORLY IN ENGLISH, but i am able to understand it very well. Im a receiver, not a sender.
+
+I DO NOT TAKE ANY RESPONSABILITY FOR DAMAGES CAUSED BY USING THIS SOFTWARE TO PAY YOUR TAXES!
+
+Yes, this is a piece of software. Not a great piece, but i do hope it serve its purpose :) (Which do not include in any way helping you pay your taxes)
 
