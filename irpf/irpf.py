@@ -18,4 +18,8 @@ class irpf():
     def get_income(self):
         return self.income
     
+    def register_pension(self, pension):
+        self.pension = pension
     
+    def get_pension(self):
+        return self.pension
