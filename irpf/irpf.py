@@ -34,4 +34,4 @@ class irpf():
     
     def get_deduction(self):
         if self.dependant:
-            return 150
+            return 300

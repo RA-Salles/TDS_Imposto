@@ -11,7 +11,7 @@ class test_dependant(tc):
         self.taxer.register_dependant("John")
         self.assertEqual(self.taxer.get_deduction(), float(150))
 
-    def test_dependant_I(self):
+    def test_dependant_II(self):
         self.taxer.register_dependant("John")
         self.taxer.register_dependant("Snake")
         self.assertEqual(self.taxer.get_deduction(), float(300))
