@@ -1,3 +1,8 @@
 class irpf():
     def __init__(self):
-        print("i run! i exist!") #had to do this to ensure the irpf class is being called.
+        pass
+    def register_income(self, income):
+        self.income = income
+
+    def get_income(self):
+        return self.income

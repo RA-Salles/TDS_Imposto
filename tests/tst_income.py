@@ -9,14 +9,14 @@ class test_income(tc):
 
     def test_register_income_I(self):
         self.taxer.register_income(800.00)
-        self.assertEqual(irpf.get_income(), float(800))
+        self.assertEqual(self.taxer.get_income(), float(800))
 
     def test_register_income_II(self):
         self.taxer.register_income(900.00)
-        self.assertEqual(irpf.get_income(), float(900))
+        self.assertEqual(self.taxer.get_income(), float(900))
 
     def test_register_income_III(self):
         self.taxer.register_income(900.00)
         self.taxer.register_income(800.00)
-        self.assertEqual(irpf.get_income(), float(1700))
+        self.assertEqual(self.taxer.get_income(), float(1700))
 
