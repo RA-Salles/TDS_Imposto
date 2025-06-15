@@ -28,3 +28,10 @@ class irpf():
     
     def get_pension(self):
         return self.pension
+
+    def register_dependant(self, name):
+        self.dependant = name
+    
+    def get_deduction(self):
+        if self.dependant:
+            return 150
